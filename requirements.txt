@@ -1,0 +1,29 @@
+# ── Core ───────────────────────────────────────────────────────────────────────
+pydantic>=2.7,<3
+anthropic>=0.28,<1       # Claude API client
+
+# ── Document ingestion ────────────────────────────────────────────────────────
+pdfplumber>=0.11          # PDF text extraction
+python-docx>=1.1          # DOCX
+openpyxl>=3.1             # XLSX
+Pillow>=10.3              # Image handling for OCR fallback
+pytesseract>=0.3.10       # Tesseract OCR wrapper (requires Tesseract binary)
+
+# ── API ───────────────────────────────────────────────────────────────────────
+fastapi>=0.111
+uvicorn[standard]>=0.29
+python-multipart>=0.0.9   # File upload support for FastAPI
+
+# ── Training ──────────────────────────────────────────────────────────────────
+torch>=2.3                # PyTorch (CPU or CUDA depending on hardware)
+transformers>=4.42        # HuggingFace Transformers
+peft>=0.11                # LoRA / QLoRA
+trl>=0.9                  # SFTTrainer
+bitsandbytes>=0.43        # 4-bit quantization (Linux / CUDA only)
+accelerate>=0.30
+datasets>=2.19            # HuggingFace Datasets
+
+# ── Dev / testing ─────────────────────────────────────────────────────────────
+pytest>=8.2
+pytest-asyncio>=0.23
+httpx>=0.27               # FastAPI test client

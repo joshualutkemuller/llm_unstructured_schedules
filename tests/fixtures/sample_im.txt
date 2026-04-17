@@ -1,0 +1,59 @@
+CREDIT SUPPORT ANNEX
+to the Schedule to the 2002 ISDA Master Agreement
+(Security Interest – New York Law)
+
+Dated as of October 1, 2023
+
+Party A: Atlas Capital Advisors LLC
+Party B: Meridian Securities Ltd (LEI: 5493001RKX5PVOA2GM83)
+
+Paragraph 13. Elections and Variables
+
+(b) Threshold.
+    The Threshold for Party A shall be USD 0.
+    The Threshold for Party B shall be USD 0.
+
+(c) Minimum Transfer Amount.
+    The Minimum Transfer Amount for Party A shall be USD 500,000.
+    The Minimum Transfer Amount for Party B shall be USD 500,000.
+
+(d) Independent Amount.
+    The Independent Amount for Party A shall be USD 2,000,000.
+    The Independent Amount for Party B shall be USD 0.
+
+(e) Eligible Credit Support.
+    The following categories of assets shall constitute Eligible Credit Support
+    for the purposes of this Annex:
+
+    (i)  US Treasury Securities (all maturities) — Haircut: 0.5%
+    (ii) German Federal Government Bonds (Bunds) up to 30 years — Haircut: 1.0%
+    (iii) Cash in USD — Haircut: 0%
+
+    Concentration Limits: No single issuer (other than the US or German Federal
+    Government) shall exceed 20% of the total credit support balance.
+
+(f) Custodian.
+    BNY Mellon shall act as Custodian for both parties pursuant to the
+    tri-party custody agreement separately entered into.
+    Rehypothecation of pledged collateral is not permitted.
+
+(g) IM Calculation Method.
+    The parties agree to use ISDA SIMM v2.6 for the calculation of the
+    Initial Margin requirement.
+
+(h) Interest Rate on Cash Collateral.
+    USD cash: SOFR flat
+    EUR cash: €STR flat
+
+(i) Settlement.
+    Delivery of Eligible Credit Support shall be made within T+2 Business Days.
+    Notification time: 10:00 AM New York time.
+
+(j) Valuation Agent.
+    Party B shall act as Valuation Agent.
+
+(k) Dispute Resolution.
+    Any dispute with respect to a Transfer demand must be resolved within
+    3 Business Days of the dispute notice.
+
+Governing law: The laws of the State of New York.

@@ -1,0 +1,56 @@
+ANNEX TO THE GLOBAL MASTER REPURCHASE AGREEMENT
+(GMRA 2011)
+
+Dated: September 1, 2023
+Seller: Pinnacle Fixed Income Ltd (LEI: 549300NF0HQLTPIQH841)
+Buyer:  StoneRidge Capital Partners LLC
+
+1. Initial Margin
+   The Initial Margin Ratio shall be 102% of the Purchase Price
+   (i.e., a margin add-on of 2%).
+
+   The Margin Maintenance Level shall be 101% of the current Market Value
+   of the Purchased Securities.
+
+2. Net Margin
+   Net Margin shall apply: margin exposures across all outstanding Transactions
+   shall be aggregated before any margin call is issued.
+
+3. Eligible Purchased Securities
+   The following securities are eligible for sale under Transactions
+   pursuant to this Agreement:
+
+   (a) UK Gilts — all maturities — Haircut 1.0%
+   (b) German Bunds — maturities up to 30 years — Haircut 0.5%
+   (c) US Treasury Notes and Bonds — all maturities — Haircut 0.5%
+
+   Concentration Limits: No single sovereign issuer shall exceed 60% of the
+   aggregate Market Value of Purchased Securities outstanding at any time.
+
+4. Repricing
+   Repricing shall occur daily on each Business Day.
+   The non-defaulting party must give not less than 2 business hours' notice
+   prior to requesting repricing.
+
+5. Substitution
+   Substitution of Purchased Securities is permitted.
+   The Seller shall give not less than 3 Business Days' written notice
+   prior to effecting any substitution.
+
+6. Income and Manufactured Payments
+   All income in respect of Purchased Securities shall be payable by the
+   Buyer to the Seller as a Manufactured Payment on the Business Day on
+   which such income is paid by the relevant issuer.
+
+7. Tri-party Settlement
+   All Transactions shall be settled through Euroclear Bank SA/NV acting
+   as Tri-party Agent.
+
+8. Default Interest
+   Overdue amounts shall bear interest at SONIA + 200 basis points per annum.
+
+9. Set-off
+   Upon the occurrence of an Event of Default, the non-defaulting party shall
+   have the right to set off all amounts payable under this Agreement.
+
+Governing law: English law.
