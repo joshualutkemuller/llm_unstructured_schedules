@@ -1,0 +1,47 @@
+2016 ISDA Credit Support Annex for Variation Margin
+(Title Transfer – English Law)
+
+Dated: June 15, 2023
+Party A: Vertex Asset Management plc
+Party B: Horizon Bank PLC (LEI: 213800MBWEIJDM5CU638)
+
+Paragraph 13. Elections
+
+(a) Base Currency: USD
+
+(b) Threshold.
+    Party A Threshold: USD 0.
+    Party B Threshold: USD 0.
+    (This CSA is a Regulatory CSA under the EMIR Variation Margin rules.)
+
+(c) Minimum Transfer Amount.
+    Party A MTA: USD 1,000,000.
+    Party B MTA: USD 1,000,000.
+    Rounding: to the nearest USD 1,000.
+
+(d) Eligible Currencies.
+    USD, EUR, and GBP shall be Eligible Currencies for cash collateral.
+    Securities shall not constitute Eligible Credit Support under this Annex.
+
+(e) Interest on Cash Collateral.
+    USD: SOFR – 5 basis points.
+    EUR: €STR – 5 basis points.
+    GBP: SONIA – 5 basis points.
+    Interest amounts shall be netted against margin transfers.
+
+(f) Valuation Agent.
+    Party B shall act as Valuation Agent.
+    Valuation Time: 4:00 PM London time on each Valuation Date.
+
+(g) Settlement Day.
+    Transfers of Eligible Credit Support shall settle on T+1 Business Day.
+
+(h) Close-out Netting.
+    Close-out netting pursuant to the ISDA Master Agreement shall apply
+    to all Transactions covered by this Annex.
+
+(i) Covered Transactions.
+    This Annex covers all OTC derivative Transactions entered into under
+    the ISDA Master Agreement between the parties.
+
+Governing law: English law.
